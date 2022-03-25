@@ -1,0 +1,11 @@
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\GroceryList\GroceryList\bin\Debug\GroceryList.exe.config
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\GroceryList\GroceryList\bin\Debug\GroceryList.exe
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\GroceryList\GroceryList\bin\Debug\GroceryList.pdb
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\GroceryList\GroceryList\obj\Debug\GroceryList.csprojAssemblyReference.cache
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\GroceryList\GroceryList\obj\Debug\GroceryList.MainForm.resources
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\GroceryList\GroceryList\obj\Debug\GroceryList.Properties.Resources.resources
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\GroceryList\GroceryList\obj\Debug\GroceryList.csproj.GenerateResource.cache
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\GroceryList\GroceryList\obj\Debug\GroceryList.exe
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\GroceryList\GroceryList\obj\Debug\GroceryList.pdb
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\GroceryList\GroceryList\obj\Debug\GroceryList.EmailForm.resources
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\GroceryList\GroceryList\obj\Debug\GroceryList.UpdateItem.resources
